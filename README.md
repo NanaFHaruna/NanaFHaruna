@@ -14,7 +14,7 @@
 <h2>📑 Computational biology and bioinformatics research papers </h2>
 
 - [scRNA-seq profiling of human granulocytes reveals expansion of developmentally flexible neutrophil precursors with mixed neutrophil and eosinophil properties in asthma](https://pubmed.ncbi.nlm.nih.gov/38814679/)
-- [Single cell profiling to determine influence of wheeze and early-life viral infection on developmental programming of airway epithelium](https://pubmed.ncbi.nlm.nih.gov/39026695/)
+- [Single cell profiling to determine influence of wheeze and early-life viral infection on developmental programming of airway epithelium](https://pubmed.ncbi.nlm.nih.gov/40408478/)
 
 
 <h2> 🤳 Connect with me:</h2>
