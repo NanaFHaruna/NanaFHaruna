@@ -3,7 +3,7 @@
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
 - <b>Published research projects </b>
-  - [scRNA-seq analysis of human immune cells on R](https://github.com/NanaHaruna/HumanGranulocyte_scRNAseq_Analysis)
+  - [scRNA-seq analysis of human immune cells on R](https://github.com/NanaFHaruna/HumanGranulocyte_scRNAseq_Analysis)
   - [Data analysis of nasal airway epithelial cells](https://github.com/NanaHaruna/Nasal-airway-epithelial-cells-NAECs-)
 
 - <b>Unpublished projects</b>
